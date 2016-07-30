@@ -1,0 +1,17 @@
+#add_subtask,#close_add_subtask,#add_subtopic,#close_add_subtopic{
+	display:inline;
+}
+
+#add_expense,#close_add_expense,#add_expense_sign,#add_folder,#close_add_folder,#add_folder_sign{
+	display:inline;
+}
+
+#add_reminder,#close_add_reminder,#add_folder_symbol,#add_folder_sign{
+	display:inline;
+}
+
+#filter_folder_option,#export_folder_option{
+	display:inline;
+	margin-left:20px;
+}
+

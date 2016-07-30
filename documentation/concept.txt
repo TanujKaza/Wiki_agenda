@@ -1,0 +1,4 @@
+** The files in the parent-parent folder are that of a to-do list cum reminder web application
+** This is solely the property of Tanuj Kaza and may not be copied or redistributed in any form without prior permission of the author.
+** This has been developed on a Linux machine 
+** The project commenced on the night of 20th June 2016
